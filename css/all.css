@@ -4,6 +4,7 @@ h1.top
     text-align:center;
 }
 
+
 a
 {
     text-decoration:none;
@@ -18,4 +19,9 @@ html
 *
 {
     user-select: none;
+}
+
+body 
+{
+  font-family: Helvetica, sans-serif;
 }
