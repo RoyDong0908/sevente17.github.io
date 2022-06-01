@@ -2,6 +2,7 @@ div.backgrond
 {
     background-image: linear-gradient(to bottom right, red , yellow);
     margin: -8px;
+    width: 99vw;
 }
 
 
